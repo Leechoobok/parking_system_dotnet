@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eKvvRMFkqbM2Bh5SxKiqkIm5KZdd4IZB9G1r2k5fdEw81rgTlh4y598cVmAO2dsW9a2EwsxC2FDPd+ZELzLaNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\project\\Parkin_System\\Parkin_System\\Parking_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\tesseract.drawing\\4.1.1\\tesseract.drawing.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
